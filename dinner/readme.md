@@ -1,21 +1,19 @@
-# Replace with recipe name
+# Homemade Cheese Pizza
 
-## Servings: 
+## Servings: 3-4
 
-## Time to prepare: 
+## Time to prepare: 1 hour
 
-## Ingredients:
-
-
-## Equipment needed:
+## Ingredients: Cheese, Mozarella, Homemade Tomato Sauce, Flour, Water, Salt, Oregno, Olive Oil
 
 
-## Steps for preparation:
+## Equipment needed: Pizza Stone, Oven, Bowls, Taste Buds
 
 
-
-### Notes:
+## Steps for preparation: 1) Make the Dough 2) Put the suace on the dough 3) Put cheese on the dough 4) Put it in the oven
 
 
 
-### Codemates #
+### Notes: Dough and sauce take some time to make
+a balanced meal for sure!
+
