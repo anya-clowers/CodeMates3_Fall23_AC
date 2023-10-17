@@ -4,7 +4,7 @@
 1 serving per smoothie
 
 ## Time to prepare: 
-10 minutes
+15 minutes
 
 ## Ingredients: 
 1 banana, 1/2 cup blueberries, 1/4 cup yogurt, 4 cups of milk, 1 scoop protein powder, 1-gallon water
