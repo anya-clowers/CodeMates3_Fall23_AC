@@ -1,16 +1,16 @@
-# Replace with recipe name
+# Breakfast smoothie
 
-## Servings: 
+## Servings: 1 serving per smoothie
 
-## Time to prepare: 
+## Time to prepare: 10 minutes
 
-## Ingredients:
-
-
-## Equipment needed:
+## Ingredients: 1 banana, 1/2 cup blueberries, 1/4 cup yogurt, 4 cups spinach, 1 scoop protein powder, 1 gallon water
 
 
-## Steps for preparation:
+## Equipment needed: 1 blender
+
+
+## Steps for preparation: combine all ingredients into blender and blend together
 
 
 
