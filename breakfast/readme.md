@@ -4,7 +4,7 @@
 
 ## Time to prepare: 10 minutes
 
-## Ingredients: 1 banana, 1/2 cup blueberries, 1/4 cup yogurt, 4 cups spinach, 1 scoop protein powder, 1 gallon water
+## Ingredients: 1 banana, 1/2 cup blueberries, 1/4 cup yogurt, 4 cups of milk, 1 scoop protein powder, 1 gallon water
 
 
 ## Equipment needed: 1 blender
@@ -15,7 +15,7 @@
 
 
 ### Notes:
-
+looks healthy
 
 
 ### Codemates #
