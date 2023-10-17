@@ -46,6 +46,8 @@ Pan, knife
 ## Steps for preparation: 
 1) pan heat the beef 2) put the beef and other ingredients on buns 3)  Put it in the oven
 
+## Notes
+A balanced meal
 ### Notes: 
 Need to have nice beef
 
