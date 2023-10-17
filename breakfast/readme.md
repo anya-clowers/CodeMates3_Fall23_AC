@@ -1,7 +1,7 @@
 # Breakfast smoothie
 
 ## Servings: 
-1 serving per smoothie
+2 serving per smoothie
 
 ## Time to prepare: 
 15 minutes
