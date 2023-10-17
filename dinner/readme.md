@@ -14,6 +14,6 @@
 
 
 
-### Notes: Dough and suace take some time to make
-
+### Notes: Dough and sauce take some time to make
+a balanced meal for sure!
 
